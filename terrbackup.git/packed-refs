@@ -1,6 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-edcd9006fb468570ef7b39316f2e1733a43ee337 refs/heads/main
-4e9dbbe0c52dbd5d4c42e02e658eb369e1782ab1 refs/heads/testgithub-trial-patch-1
-200395cb6b3fe4fa88b007d4ec04d6b276c18f8c refs/heads/testgithub-trial-patch-2
-4e9dbbe0c52dbd5d4c42e02e658eb369e1782ab1 refs/pull/1/head
-05e095c298b554294deb2332a8142de73896a45f refs/pull/1/merge
